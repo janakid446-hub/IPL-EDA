@@ -272,7 +272,7 @@ IPL-EDA/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/janakid446-hub/IPL-EDA
 ```
 
 ### 2️⃣ Navigate to the Project Folder
@@ -315,7 +315,7 @@ This project demonstrates the following Data Analytics skills:
 
 # 👩‍💻 Author
 
-**Janaki**
+**Janaki D**
 
 B.Tech – Artificial Intelligence and Data Science
 
